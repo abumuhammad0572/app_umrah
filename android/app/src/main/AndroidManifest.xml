@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.otus_lessons">
    <application
-        android:label="otus_lessons"
+        android:label="umrah"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
